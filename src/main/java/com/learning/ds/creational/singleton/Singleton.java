@@ -1,4 +1,4 @@
-package com.learning.ds;
+package com.learning.ds.creational.singleton;
 
 public class Singleton {
     public static void main(String[] args) {
