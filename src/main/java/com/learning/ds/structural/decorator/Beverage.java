@@ -1,4 +1,4 @@
-package com.learning.ds.behavioral.decorator;
+package com.learning.ds.structural.decorator;
 
 public abstract class Beverage {
     String description = "Unknown Beverage";

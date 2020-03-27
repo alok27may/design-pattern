@@ -1,4 +1,4 @@
-package com.learning.ds.behavioral.decorator;
+package com.learning.ds.structural.decorator;
 
 public class Soy extends CondimentDecorator {
     private Beverage beverage;
