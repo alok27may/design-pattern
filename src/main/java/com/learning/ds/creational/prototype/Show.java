@@ -1,4 +1,4 @@
-package com.learning.ds.creational.builder.example2;
+package com.learning.ds.creational.prototype;
 
 public class Show implements PrototypeCapable {
 

@@ -1,4 +1,4 @@
-package com.learning.ds.creational.builder.example2;
+package com.learning.ds.creational.prototype;
 
 public class PrototypePatternTest {
     public static void main(String[] args) {
